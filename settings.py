@@ -1,4 +1,3 @@
-dkhxufd2jerweoif2eriufyb2cler# Settings
 
 # Location for creating projects
 default_path = 'C:\\Users\\example-user\\Desktop\\code\\python\\'
@@ -7,6 +6,6 @@ default_path = 'C:\\Users\\example-user\\Desktop\\code\\python\\'
 # Put your token into token.key
 with open('token.key', 'r') as f:
     token = f.read()
-
+'yeet'
 # Github username
 username = ''
