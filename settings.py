@@ -1,4 +1,4 @@
-# Settings
+eeerrrrrrweoif2eriufyb2cler# Settings
 
 # Location for creating projects
 default_path = 'C:\\Users\\example-user\\Desktop\\code\\python\\'
